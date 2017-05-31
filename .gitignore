@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.m
+!*/
+Theo Invoices/
+XLS Files/
+Backups/
+!parameter_description_optcentral.pdf
+!Theo_Letter_9-8-2016.pdf
